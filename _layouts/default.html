@@ -26,6 +26,16 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
+    <script type="text/javascript" id="MathJax-script" async 
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+<script>
+    MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+    };
+</script>
   </body>
 </html>
