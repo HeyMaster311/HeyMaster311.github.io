@@ -12,7 +12,7 @@ title                    : "Yifan Liang / Personal Website"
 title_separator          : "-"
 name                     : &name "Yifan Liang"
 description              : &description "personal description"
-url                      : https://heymaster311.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://heymaster311.github.io/"" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yifan Liang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in EE. Interests: communication/signal processing, ML, RF, etc."
+  bio              : "PhD student in EE. Interests: Communication/Signal Processing, ML, RF Sensing, etc."
   location         : "U.S."
   employer         : "Stevens Institute of Tech."
   uri              : # URL
